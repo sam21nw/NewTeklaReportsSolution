@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+    <!-- Basic settings -->
+    <PropertyGroup>
+        <!-- TSVersion is used for specifying folders. Change when branching. -->
+        <TSVersion              Condition="'$(TSVersion)'==''">21.0</TSVersion>
+        <!-- Main Versions Numbers For Tekla Structures -->
+        <TSVersionNumber        Condition="'$(TSVersionNumber)'==''">21.0.0.0</TSVersionNumber>
+        <UserSRCDir             Condition="'$(UserSRCDir)'==''">$(MSBuildThisFileDirectory)..\..\..\</UserSRCDir>
+        <UserOBJDir             Condition="'$(UserOBJDir)'==''">$(UserSRCDir)\ObjDrop\$(TSVersion)</UserOBJDir>
+        <UserBINDir             Condition="'$(UserBINDir)'==''">$(UserSRCDir)\BuildDrop\$(TSVersion)</UserBINDir>
+        <BINDir                 Condition="'$(BINDir)'==''">$(UserBINDir)\bin</BINDir>
+        <BINDir                 Condition="'$(Configuration)'=='Debug'">$(UserBINDir)\bin</BINDir>
+        <BINDir                 Condition="'$(Configuration)'=='Release'">$(UserBINDir)\bin_release</BINDir>
+        <BINDir                 Condition="'$(Configuration)|$(TSPlatform)'=='Debug|Win32'">$(UserBINDir)\bin</BINDir>
+        <BINDir                 Condition="'$(Configuration)|$(TSPlatform)'=='Debug|x64'">$(UserBINDir)\bin_x64</BINDir>
+        <BINDir                 Condition="'$(Configuration)|$(TSPlatform)'=='Release|Win32'">$(UserBINDir)\bin_release</BINDir>
+        <BINDir                 Condition="'$(Configuration)|$(TSPlatform)'=='Release|x64'">$(UserBINDir)\bin_release_x64</BINDir>
+        <SRCDir>$(UserSRCDir)</SRCDir>
+        <OBJDir>$(UserOBJDir)\$(Configuration)\$(TSPlatform)</OBJDir>
+        <IntermediateOutputPath>$(OBJDir)\$(MSBuildProjectName)\</IntermediateOutputPath>
+        
+        <!-- Nunit Model Source Folder -->
+        <NunitTestModelDir      Condition="'$(NunitTestModelDir)'==''">$(UserSRCDir)\DotNetInterface\Test\Tekla.Models</NunitTestModelDir>
+        <!-- Nunit Default Model Source Folder, used to copy TeklaStructures.ini to bin folder if the file is not there -->
+        <UserDefaultModelDir    Condition="'$(UserDefaultModelDir)'==''">$(NunitTestModelDir)\NunitTestModel</UserDefaultModelDir>
+        
+        <!-- Nunit unit test drop folder, not integration tests -->
+        <NUnitTestBinDir    Condition="'$(NUnitTestBinDir)'==''">$(BINDir)\Test\UnitTests</NUnitTestBinDir>
+        
+        <!-- UnitTestBinDir is used to drop any test files, environment files into this folder: Core\Unitester for example -->
+        <UnitTestBinDir                 Condition="'$(UnitTestBinDir)'==''">$(BINDir)\UnitTest</UnitTestBinDir>
+        <!-- IntegrationTestModels is used to drop any nunit model files into the bin -->
+        <IntegrationTestModels                 Condition="'$(IntegrationTestModels)'==''">$(BINDir)\Test\Tekla.Models</IntegrationTestModels>
+ 
+    </PropertyGroup>
+</Project>

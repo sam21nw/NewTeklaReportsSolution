@@ -1,0 +1,51 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "00_Libraries", "00_Libraries", "{816EEA40-AD6C-487A-A75B-D88C406D65D3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "WpfOfficeTheme-master", "WpfOfficeTheme-master", "{DB5A18C6-2516-4D3D-B2CA-F4E2EF8A0492}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{0E4A4EDC-361E-4EAF-8992-42FF4A9E0D83}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfOfficeTheme", "00_Libraries\WpfOfficeTheme-master\src\WpfOfficeTheme\WpfOfficeTheme.csproj", "{BCEC224F-5D5A-483D-B77C-CD91BD2381C5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeklaReportsAppExtended_2016", "TeklaReportsAppExtended_2016\TeklaReportsAppExtended_2016.csproj", "{356072D3-F0FE-430D-8059-8F896FE454ED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeklaReportsAppExtended_2021", "TeklaReportsAppExtended_2021\TeklaReportsAppExtended_2021.csproj", "{6A2430E4-5A5A-41B6-882A-488D06B2DC70}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeklaReportsLibrary", "TeklaReportsLibrary\TeklaReportsLibrary.csproj", "{F3E99B01-57CB-4709-AA02-AA4400955C85}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BCEC224F-5D5A-483D-B77C-CD91BD2381C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCEC224F-5D5A-483D-B77C-CD91BD2381C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCEC224F-5D5A-483D-B77C-CD91BD2381C5}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCEC224F-5D5A-483D-B77C-CD91BD2381C5}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{356072D3-F0FE-430D-8059-8F896FE454ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{356072D3-F0FE-430D-8059-8F896FE454ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{356072D3-F0FE-430D-8059-8F896FE454ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{356072D3-F0FE-430D-8059-8F896FE454ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A2430E4-5A5A-41B6-882A-488D06B2DC70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A2430E4-5A5A-41B6-882A-488D06B2DC70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A2430E4-5A5A-41B6-882A-488D06B2DC70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A2430E4-5A5A-41B6-882A-488D06B2DC70}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3E99B01-57CB-4709-AA02-AA4400955C85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3E99B01-57CB-4709-AA02-AA4400955C85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3E99B01-57CB-4709-AA02-AA4400955C85}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3E99B01-57CB-4709-AA02-AA4400955C85}.Release|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{DB5A18C6-2516-4D3D-B2CA-F4E2EF8A0492} = {816EEA40-AD6C-487A-A75B-D88C406D65D3}
+		{0E4A4EDC-361E-4EAF-8992-42FF4A9E0D83} = {DB5A18C6-2516-4D3D-B2CA-F4E2EF8A0492}
+		{BCEC224F-5D5A-483D-B77C-CD91BD2381C5} = {0E4A4EDC-361E-4EAF-8992-42FF4A9E0D83}
+	EndGlobalSection
+EndGlobal

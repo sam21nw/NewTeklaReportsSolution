@@ -1,0 +1,12 @@
+E:\Tekla\09_Applications\TeklaReportsSolution\TeklaReportsLibrary\bin\Debug\TeklaReportsLibrary.dll
+E:\Tekla\09_Applications\TeklaReportsSolution\TeklaReportsLibrary\bin\Debug\TeklaReportsLibrary.pdb
+E:\Tekla\09_Applications\TeklaReportsSolution\TeklaReportsLibrary\obj\Debug\TeklaReportsLibrary.csproj.AssemblyReference.cache
+E:\Tekla\09_Applications\TeklaReportsSolution\TeklaReportsLibrary\obj\Debug\TeklaReportsLibrary.csproj.CoreCompileInputs.cache
+E:\Tekla\09_Applications\TeklaReportsSolution\TeklaReportsLibrary\obj\Debug\TeklaReportsLibrary.dll
+E:\Tekla\09_Applications\TeklaReportsSolution\TeklaReportsLibrary\obj\Debug\TeklaReportsLibrary.pdb
+E:\Tekla\09_Applications\console apps\NewTeklaReportsSolution\output\TeklaReportsLibrary.dll
+E:\Tekla\09_Applications\console apps\NewTeklaReportsSolution\output\TeklaReportsLibrary.pdb
+E:\Tekla\09_Applications\console apps\NewTeklaReportsSolution\TeklaReportsLibrary\obj\Debug\TeklaReportsLibrary.csproj.AssemblyReference.cache
+E:\Tekla\09_Applications\console apps\NewTeklaReportsSolution\TeklaReportsLibrary\obj\Debug\TeklaReportsLibrary.csproj.CoreCompileInputs.cache
+E:\Tekla\09_Applications\console apps\NewTeklaReportsSolution\TeklaReportsLibrary\obj\Debug\TeklaReportsLibrary.dll
+E:\Tekla\09_Applications\console apps\NewTeklaReportsSolution\TeklaReportsLibrary\obj\Debug\TeklaReportsLibrary.pdb
