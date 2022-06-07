@@ -1,0 +1,38 @@
+E:\Tekla\09_Applications\windows apps\TeklaReportsSolution\TeklaDisplayInfo_T2021\bin\Debug\net48\TeklaDisplayInfo_T2021.exe.config
+E:\Tekla\09_Applications\windows apps\TeklaReportsSolution\TeklaDisplayInfo_T2021\bin\Debug\net48\TeklaDisplayInfo_T2021.exe
+E:\Tekla\09_Applications\windows apps\TeklaReportsSolution\TeklaDisplayInfo_T2021\bin\Debug\net48\TeklaDisplayInfo_T2021.pdb
+E:\Tekla\09_Applications\windows apps\TeklaReportsSolution\TeklaDisplayInfo_T2021\obj\Debug\net48\TeklaDisplayInfo_T2021.csproj.AssemblyReference.cache
+E:\Tekla\09_Applications\windows apps\TeklaReportsSolution\TeklaDisplayInfo_T2021\obj\Debug\net48\TeklaDisplayInfo_T2021.csproj.SuggestedBindingRedirects.cache
+E:\Tekla\09_Applications\windows apps\TeklaReportsSolution\TeklaDisplayInfo_T2021\obj\Debug\net48\TeklaDisplayInfo_T2021.exe.config
+E:\Tekla\09_Applications\windows apps\TeklaReportsSolution\TeklaDisplayInfo_T2021\obj\Debug\net48\MainWindow.g.cs
+E:\Tekla\09_Applications\windows apps\TeklaReportsSolution\TeklaDisplayInfo_T2021\obj\Debug\net48\App.g.cs
+E:\Tekla\09_Applications\windows apps\TeklaReportsSolution\TeklaDisplayInfo_T2021\obj\Debug\net48\TeklaDisplayInfo_T2021_MarkupCompile.cache
+E:\Tekla\09_Applications\windows apps\TeklaReportsSolution\TeklaDisplayInfo_T2021\obj\Debug\net48\TeklaDisplayInfo_T2021_MarkupCompile.lref
+E:\Tekla\09_Applications\windows apps\TeklaReportsSolution\TeklaDisplayInfo_T2021\obj\Debug\net48\MainWindow.baml
+E:\Tekla\09_Applications\windows apps\TeklaReportsSolution\TeklaDisplayInfo_T2021\obj\Debug\net48\TeklaDisplayInfo_T2021.g.resources
+E:\Tekla\09_Applications\windows apps\TeklaReportsSolution\TeklaDisplayInfo_T2021\obj\Debug\net48\TeklaDisplayInfo_T2021.GeneratedMSBuildEditorConfig.editorconfig
+E:\Tekla\09_Applications\windows apps\TeklaReportsSolution\TeklaDisplayInfo_T2021\obj\Debug\net48\TeklaDisplayInfo_T2021.AssemblyInfoInputs.cache
+E:\Tekla\09_Applications\windows apps\TeklaReportsSolution\TeklaDisplayInfo_T2021\obj\Debug\net48\TeklaDisplayInfo_T2021.AssemblyInfo.cs
+E:\Tekla\09_Applications\windows apps\TeklaReportsSolution\TeklaDisplayInfo_T2021\obj\Debug\net48\TeklaDisplayInfo_T2021.csproj.CoreCompileInputs.cache
+E:\Tekla\09_Applications\windows apps\TeklaReportsSolution\TeklaDisplayInfo_T2021\obj\Debug\net48\TeklaDisplayInfo_T2021.csproj.Fody.CopyLocal.cache
+E:\Tekla\09_Applications\windows apps\TeklaReportsSolution\TeklaDisplayInfo_T2021\obj\Debug\net48\TeklaDisplayInfo_T2021.exe
+E:\Tekla\09_Applications\windows apps\TeklaReportsSolution\TeklaDisplayInfo_T2021\obj\Debug\net48\TeklaDisplayInfo_T2021.pdb
+E:\Tekla\09_Applications\NewTeklaReportsSolution\TeklaDisplayInfo_T2021\obj\Debug\net48\TeklaDisplayInfo_T2021.csproj.AssemblyReference.cache
+E:\Tekla\09_Applications\NewTeklaReportsSolution\TeklaDisplayInfo_T2021\obj\Debug\net48\TeklaDisplayInfo_T2021.csproj.SuggestedBindingRedirects.cache
+E:\Tekla\09_Applications\NewTeklaReportsSolution\TeklaDisplayInfo_T2021\obj\Debug\net48\TeklaDisplayInfo_T2021.exe.config
+E:\Tekla\09_Applications\NewTeklaReportsSolution\TeklaDisplayInfo_T2021\obj\Debug\net48\MainWindow.g.cs
+E:\Tekla\09_Applications\NewTeklaReportsSolution\TeklaDisplayInfo_T2021\obj\Debug\net48\App.g.cs
+E:\Tekla\09_Applications\NewTeklaReportsSolution\TeklaDisplayInfo_T2021\obj\Debug\net48\TeklaDisplayInfo_T2021_MarkupCompile.cache
+E:\Tekla\09_Applications\NewTeklaReportsSolution\TeklaDisplayInfo_T2021\obj\Debug\net48\TeklaDisplayInfo_T2021_MarkupCompile.lref
+E:\Tekla\09_Applications\NewTeklaReportsSolution\TeklaDisplayInfo_T2021\obj\Debug\net48\TeklaDisplayInfo_T2021.exe
+E:\Tekla\09_Applications\NewTeklaReportsSolution\TeklaDisplayInfo_T2021\obj\Debug\net48\TeklaDisplayInfo_T2021.pdb
+E:\Tekla\09_Applications\NewTeklaReportsSolution\TeklaDisplayInfo_T2021\bin\Debug\net48\TeklaDisplayInfo_T2021.exe.config
+E:\Tekla\09_Applications\NewTeklaReportsSolution\TeklaDisplayInfo_T2021\bin\Debug\net48\TeklaDisplayInfo_T2021.exe
+E:\Tekla\09_Applications\NewTeklaReportsSolution\TeklaDisplayInfo_T2021\bin\Debug\net48\TeklaDisplayInfo_T2021.pdb
+E:\Tekla\09_Applications\NewTeklaReportsSolution\TeklaDisplayInfo_T2021\obj\Debug\net48\MainWindow.baml
+E:\Tekla\09_Applications\NewTeklaReportsSolution\TeklaDisplayInfo_T2021\obj\Debug\net48\TeklaDisplayInfo_T2021.g.resources
+E:\Tekla\09_Applications\NewTeklaReportsSolution\TeklaDisplayInfo_T2021\obj\Debug\net48\TeklaDisplayInfo_T2021.GeneratedMSBuildEditorConfig.editorconfig
+E:\Tekla\09_Applications\NewTeklaReportsSolution\TeklaDisplayInfo_T2021\obj\Debug\net48\TeklaDisplayInfo_T2021.AssemblyInfoInputs.cache
+E:\Tekla\09_Applications\NewTeklaReportsSolution\TeklaDisplayInfo_T2021\obj\Debug\net48\TeklaDisplayInfo_T2021.AssemblyInfo.cs
+E:\Tekla\09_Applications\NewTeklaReportsSolution\TeklaDisplayInfo_T2021\obj\Debug\net48\TeklaDisplayInfo_T2021.csproj.CoreCompileInputs.cache
+E:\Tekla\09_Applications\NewTeklaReportsSolution\TeklaDisplayInfo_T2021\obj\Debug\net48\TeklaDisplayInfo_T2021.csproj.Fody.CopyLocal.cache

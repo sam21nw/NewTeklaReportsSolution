@@ -13,6 +13,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeklaReportsLibrary", "Tekl
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeklaReportsWpfApp_T2016", "TeklaReportsWpfApp_T2016\TeklaReportsWpfApp_T2016.csproj", "{A9A0F322-DE5F-4D64-B15F-B0BC8DA481FB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeklaDisplayInfo_T2021", "TeklaDisplayInfo_T2021\TeklaDisplayInfo_T2021.csproj", "{9F06D725-0CE1-4263-8998-B34EB4EA8F88}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeklaInfoDisplay_T2016", "TeklaInfoDisplay_T2016\TeklaInfoDisplay_T2016.csproj", "{DC21B364-AC0D-4A24-94E9-932E52049F22}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -42,5 +46,13 @@ Global
 		{A9A0F322-DE5F-4D64-B15F-B0BC8DA481FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A9A0F322-DE5F-4D64-B15F-B0BC8DA481FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A9A0F322-DE5F-4D64-B15F-B0BC8DA481FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F06D725-0CE1-4263-8998-B34EB4EA8F88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F06D725-0CE1-4263-8998-B34EB4EA8F88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F06D725-0CE1-4263-8998-B34EB4EA8F88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F06D725-0CE1-4263-8998-B34EB4EA8F88}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC21B364-AC0D-4A24-94E9-932E52049F22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC21B364-AC0D-4A24-94E9-932E52049F22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC21B364-AC0D-4A24-94E9-932E52049F22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC21B364-AC0D-4A24-94E9-932E52049F22}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

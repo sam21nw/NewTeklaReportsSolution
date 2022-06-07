@@ -182,7 +182,7 @@ public partial class MainWindow : AdonisUI.Controls.AdonisWindow, System.Windows
             return;
         }
         _contentLoaded = true;
-        System.Uri resourceLocater = new System.Uri("/TeklaReportsWpfApp_T2016;component/mainwindow.xaml", System.UriKind.Relative);
+        System.Uri resourceLocater = new System.Uri("/TeklaReportsWpfApp_T2016;V0.6.1.0;component/mainwindow.xaml", System.UriKind.Relative);
         
         #line 1 "..\..\..\MainWindow.xaml"
         System.Windows.Application.LoadComponent(this, resourceLocater);

@@ -1,0 +1,54 @@
+E:\Tekla\09_Applications\windows apps\TeklaReportsSolution_T2016\TeklaInfoDisplay_T2016\bin\Debug\net48\TeklaInfoDisplay_T2016.exe.config
+E:\Tekla\09_Applications\windows apps\TeklaReportsSolution_T2016\TeklaInfoDisplay_T2016\bin\Debug\net48\TeklaInfoDisplay_T2016.exe
+E:\Tekla\09_Applications\windows apps\TeklaReportsSolution_T2016\TeklaInfoDisplay_T2016\bin\Debug\net48\TeklaInfoDisplay_T2016.pdb
+E:\Tekla\09_Applications\windows apps\TeklaReportsSolution_T2016\TeklaInfoDisplay_T2016\obj\Debug\net48\TeklaInfoDisplay_T2016.csproj.AssemblyReference.cache
+E:\Tekla\09_Applications\windows apps\TeklaReportsSolution_T2016\TeklaInfoDisplay_T2016\obj\Debug\net48\TeklaInfoDisplay_T2016.csproj.SuggestedBindingRedirects.cache
+E:\Tekla\09_Applications\windows apps\TeklaReportsSolution_T2016\TeklaInfoDisplay_T2016\obj\Debug\net48\TeklaInfoDisplay_T2016.exe.config
+E:\Tekla\09_Applications\windows apps\TeklaReportsSolution_T2016\TeklaInfoDisplay_T2016\obj\Debug\net48\MainWindow.g.cs
+E:\Tekla\09_Applications\windows apps\TeklaReportsSolution_T2016\TeklaInfoDisplay_T2016\obj\Debug\net48\App.g.cs
+E:\Tekla\09_Applications\windows apps\TeklaReportsSolution_T2016\TeklaInfoDisplay_T2016\obj\Debug\net48\TeklaInfoDisplay_T2016_MarkupCompile.cache
+E:\Tekla\09_Applications\windows apps\TeklaReportsSolution_T2016\TeklaInfoDisplay_T2016\obj\Debug\net48\TeklaInfoDisplay_T2016_MarkupCompile.lref
+E:\Tekla\09_Applications\windows apps\TeklaReportsSolution_T2016\TeklaInfoDisplay_T2016\obj\Debug\net48\MainWindow.baml
+E:\Tekla\09_Applications\windows apps\TeklaReportsSolution_T2016\TeklaInfoDisplay_T2016\obj\Debug\net48\TeklaInfoDisplay_T2016.g.resources
+E:\Tekla\09_Applications\windows apps\TeklaReportsSolution_T2016\TeklaInfoDisplay_T2016\obj\Debug\net48\TeklaInfoDisplay.Properties.Resources.resources
+E:\Tekla\09_Applications\windows apps\TeklaReportsSolution_T2016\TeklaInfoDisplay_T2016\obj\Debug\net48\TeklaInfoDisplay_T2016.csproj.GenerateResource.cache
+E:\Tekla\09_Applications\windows apps\TeklaReportsSolution_T2016\TeklaInfoDisplay_T2016\obj\Debug\net48\TeklaInfoDisplay_T2016.GeneratedMSBuildEditorConfig.editorconfig
+E:\Tekla\09_Applications\windows apps\TeklaReportsSolution_T2016\TeklaInfoDisplay_T2016\obj\Debug\net48\TeklaInfoDisplay_T2016.AssemblyInfoInputs.cache
+E:\Tekla\09_Applications\windows apps\TeklaReportsSolution_T2016\TeklaInfoDisplay_T2016\obj\Debug\net48\TeklaInfoDisplay_T2016.AssemblyInfo.cs
+E:\Tekla\09_Applications\windows apps\TeklaReportsSolution_T2016\TeklaInfoDisplay_T2016\obj\Debug\net48\TeklaInfoDisplay_T2016.csproj.CoreCompileInputs.cache
+E:\Tekla\09_Applications\windows apps\TeklaReportsSolution_T2016\TeklaInfoDisplay_T2016\obj\Debug\net48\TeklaInfoDisplay_T2016.csproj.Fody.CopyLocal.cache
+E:\Tekla\09_Applications\windows apps\TeklaReportsSolution_T2016\TeklaInfoDisplay_T2016\obj\Debug\net48\TeklaInfoDisplay_T2016.exe
+E:\Tekla\09_Applications\windows apps\TeklaReportsSolution_T2016\TeklaInfoDisplay_T2016\obj\Debug\net48\TeklaInfoDisplay_T2016.pdb
+E:\Tekla\09_Applications\windows apps\TeklaReportsSolution\TeklaInfoDisplay_T2016\obj\Debug\net48\TeklaInfoDisplay_T2016.csproj.AssemblyReference.cache
+E:\Tekla\09_Applications\windows apps\TeklaReportsSolution\TeklaInfoDisplay_T2016\obj\Debug\net48\TeklaInfoDisplay_T2016.csproj.SuggestedBindingRedirects.cache
+E:\Tekla\09_Applications\windows apps\TeklaReportsSolution\TeklaInfoDisplay_T2016\obj\Debug\net48\TeklaInfoDisplay_T2016.exe.config
+E:\Tekla\09_Applications\windows apps\TeklaReportsSolution\TeklaInfoDisplay_T2016\obj\Debug\net48\MainWindow.g.cs
+E:\Tekla\09_Applications\windows apps\TeklaReportsSolution\TeklaInfoDisplay_T2016\obj\Debug\net48\App.g.cs
+E:\Tekla\09_Applications\windows apps\TeklaReportsSolution\TeklaInfoDisplay_T2016\obj\Debug\net48\TeklaInfoDisplay_T2016_MarkupCompile.cache
+E:\Tekla\09_Applications\windows apps\TeklaReportsSolution\TeklaInfoDisplay_T2016\obj\Debug\net48\TeklaInfoDisplay_T2016_MarkupCompile.lref
+E:\Tekla\09_Applications\windows apps\TeklaReportsSolution\TeklaInfoDisplay_T2016\obj\Debug\net48\TeklaInfoDisplay_T2016.exe
+E:\Tekla\09_Applications\windows apps\TeklaReportsSolution\TeklaInfoDisplay_T2016\obj\Debug\net48\TeklaInfoDisplay_T2016.pdb
+E:\Tekla\09_Applications\NewTeklaReportsSolution\TeklaInfoDisplay_T2016\obj\Debug\net48\TeklaInfoDisplay_T2016.csproj.AssemblyReference.cache
+E:\Tekla\09_Applications\NewTeklaReportsSolution\TeklaInfoDisplay_T2016\obj\Debug\net48\TeklaInfoDisplay_T2016.csproj.SuggestedBindingRedirects.cache
+E:\Tekla\09_Applications\NewTeklaReportsSolution\TeklaInfoDisplay_T2016\obj\Debug\net48\TeklaInfoDisplay_T2016.exe.config
+E:\Tekla\09_Applications\NewTeklaReportsSolution\TeklaInfoDisplay_T2016\obj\Debug\net48\MainWindow.g.cs
+E:\Tekla\09_Applications\NewTeklaReportsSolution\TeklaInfoDisplay_T2016\obj\Debug\net48\App.g.cs
+E:\Tekla\09_Applications\NewTeklaReportsSolution\TeklaInfoDisplay_T2016\obj\Debug\net48\TeklaInfoDisplay_T2016_MarkupCompile.cache
+E:\Tekla\09_Applications\NewTeklaReportsSolution\TeklaInfoDisplay_T2016\obj\Debug\net48\TeklaInfoDisplay_T2016_MarkupCompile.lref
+E:\Tekla\09_Applications\NewTeklaReportsSolution\TeklaInfoDisplay_T2016\bin\Debug\net48\TeklaInfoDisplay_T2016.exe.config
+E:\Tekla\09_Applications\NewTeklaReportsSolution\TeklaInfoDisplay_T2016\bin\Debug\net48\TeklaInfoDisplay_T2016.exe
+E:\Tekla\09_Applications\NewTeklaReportsSolution\TeklaInfoDisplay_T2016\bin\Debug\net48\TeklaInfoDisplay_T2016.pdb
+E:\Tekla\09_Applications\NewTeklaReportsSolution\TeklaInfoDisplay_T2016\obj\Debug\net48\MainWindow.baml
+E:\Tekla\09_Applications\NewTeklaReportsSolution\TeklaInfoDisplay_T2016\obj\Debug\net48\TeklaInfoDisplay_T2016.g.resources
+E:\Tekla\09_Applications\NewTeklaReportsSolution\TeklaInfoDisplay_T2016\obj\Debug\net48\TeklaInfoDisplay.Properties.Resources.resources
+E:\Tekla\09_Applications\NewTeklaReportsSolution\TeklaInfoDisplay_T2016\obj\Debug\net48\TeklaInfoDisplay_T2016.csproj.GenerateResource.cache
+E:\Tekla\09_Applications\NewTeklaReportsSolution\TeklaInfoDisplay_T2016\obj\Debug\net48\TeklaInfoDisplay_T2016.GeneratedMSBuildEditorConfig.editorconfig
+E:\Tekla\09_Applications\NewTeklaReportsSolution\TeklaInfoDisplay_T2016\obj\Debug\net48\TeklaInfoDisplay_T2016.AssemblyInfoInputs.cache
+E:\Tekla\09_Applications\NewTeklaReportsSolution\TeklaInfoDisplay_T2016\obj\Debug\net48\TeklaInfoDisplay_T2016.AssemblyInfo.cs
+E:\Tekla\09_Applications\NewTeklaReportsSolution\TeklaInfoDisplay_T2016\obj\Debug\net48\TeklaInfoDisplay_T2016.csproj.CoreCompileInputs.cache
+E:\Tekla\09_Applications\NewTeklaReportsSolution\TeklaInfoDisplay_T2016\obj\Debug\net48\TeklaInfoDisplay_T2016.csproj.Fody.CopyLocal.cache
+E:\Tekla\09_Applications\NewTeklaReportsSolution\TeklaInfoDisplay_T2016\obj\Debug\net48\TeklaInfoDisplay_T2016.exe
+E:\Tekla\09_Applications\NewTeklaReportsSolution\TeklaInfoDisplay_T2016\obj\Debug\net48\TeklaInfoDisplay_T2016.pdb
+E:\Tekla\09_Applications\output\TeklaInfoDisplay_T2016.exe.config
+E:\Tekla\09_Applications\output\TeklaInfoDisplay_T2016.exe
+E:\Tekla\09_Applications\output\TeklaInfoDisplay_T2016.pdb
