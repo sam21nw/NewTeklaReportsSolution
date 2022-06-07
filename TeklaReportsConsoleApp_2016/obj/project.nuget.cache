@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XhLGDjda124r6MTnFNzmA/JUKNXLYS7uIqeDELbVr0g1qu2NRjSlFP2A+fqrWkWdTXLFFWS6Tno5kXE7d0ODgw==",
+  "dgSpecHash": "A5i9qQALYvLV5szWOcGXa8k/uDPuMxTPCPnsh5sJzg7396JRcNyFHuqWuNVYZ+To2/nOldoMDm+F87BKT5fK/w==",
   "success": true,
-  "projectFilePath": "E:\\Tekla\\09_Applications\\console apps\\NewTeklaReportsSolution\\TeklaReportsAppExtended_2016\\TeklaReportsAppExtended_2016.csproj",
+  "projectFilePath": "E:\\Tekla\\09_Applications\\NewTeklaReportsSolution\\TeklaReportsConsoleApp_2016\\TeklaReportsConsoleApp_2016.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\sam21\\.nuget\\packages\\costura.fody\\5.8.0-alpha0098\\costura.fody.5.8.0-alpha0098.nupkg.sha512",
     "C:\\Users\\sam21\\.nuget\\packages\\fody\\6.6.0\\fody.6.6.0.nupkg.sha512",

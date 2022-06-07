@@ -1,7 +1,7 @@
 <Project Sdk="Microsoft.NET.Sdk">
  <PropertyGroup>
   <OutputType>Exe</OutputType>
-  <RootNamespace>TeklaReportsConsoleApp_2019</RootNamespace>
+  <RootNamespace>TeklaReportsApp</RootNamespace>
   <AssemblyName>TeklaReportsConsoleApp_2019</AssemblyName>
   <FileAlignment>512</FileAlignment>
   <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

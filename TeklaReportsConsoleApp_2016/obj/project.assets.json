@@ -4112,11 +4112,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Tekla\\09_Applications\\console apps\\NewTeklaReportsSolution\\TeklaReportsAppExtended_2016\\TeklaReportsAppExtended_2016.csproj",
-      "projectName": "TeklaReportsAppExtended_2016",
-      "projectPath": "E:\\Tekla\\09_Applications\\console apps\\NewTeklaReportsSolution\\TeklaReportsAppExtended_2016\\TeklaReportsAppExtended_2016.csproj",
+      "projectUniqueName": "E:\\Tekla\\09_Applications\\NewTeklaReportsSolution\\TeklaReportsConsoleApp_2016\\TeklaReportsConsoleApp_2016.csproj",
+      "projectName": "TeklaReportsConsoleApp_2016",
+      "projectPath": "E:\\Tekla\\09_Applications\\NewTeklaReportsSolution\\TeklaReportsConsoleApp_2016\\TeklaReportsConsoleApp_2016.csproj",
       "packagesPath": "C:\\Users\\sam21\\.nuget\\packages\\",
-      "outputPath": "E:\\Tekla\\09_Applications\\console apps\\NewTeklaReportsSolution\\TeklaReportsAppExtended_2016\\obj\\",
+      "outputPath": "E:\\Tekla\\09_Applications\\NewTeklaReportsSolution\\TeklaReportsConsoleApp_2016\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\sam21\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -4133,8 +4133,8 @@
         "net48": {
           "targetAlias": "net48",
           "projectReferences": {
-            "E:\\Tekla\\09_Applications\\console apps\\NewTeklaReportsSolution\\TeklaReportsLibrary\\TeklaReportsLibrary.csproj": {
-              "projectPath": "E:\\Tekla\\09_Applications\\console apps\\NewTeklaReportsSolution\\TeklaReportsLibrary\\TeklaReportsLibrary.csproj"
+            "E:\\Tekla\\09_Applications\\NewTeklaReportsSolution\\TeklaReportsLibrary\\TeklaReportsLibrary.csproj": {
+              "projectPath": "E:\\Tekla\\09_Applications\\NewTeklaReportsSolution\\TeklaReportsLibrary\\TeklaReportsLibrary.csproj"
             }
           }
         }
