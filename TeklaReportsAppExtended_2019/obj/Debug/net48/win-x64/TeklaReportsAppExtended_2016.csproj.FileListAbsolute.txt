@@ -1,0 +1,10 @@
+E:\Tekla\09_Applications\TeklaReportsSolution\TeklaReportsAppExtended_2016\bin\Debug\net48\win-x64\TeklaReportsAppExtended_2016.exe.config
+E:\Tekla\09_Applications\TeklaReportsSolution\TeklaReportsAppExtended_2016\bin\Debug\net48\win-x64\TeklaReportsAppExtended_2016.exe
+E:\Tekla\09_Applications\TeklaReportsSolution\TeklaReportsAppExtended_2016\obj\Debug\net48\win-x64\TeklaReportsAppExtended_2016.csproj.AssemblyReference.cache
+E:\Tekla\09_Applications\TeklaReportsSolution\TeklaReportsAppExtended_2016\obj\Debug\net48\win-x64\TeklaReportsAppExtended_2016.csproj.SuggestedBindingRedirects.cache
+E:\Tekla\09_Applications\TeklaReportsSolution\TeklaReportsAppExtended_2016\obj\Debug\net48\win-x64\TeklaReportsAppExtended_2016.GeneratedMSBuildEditorConfig.editorconfig
+E:\Tekla\09_Applications\TeklaReportsSolution\TeklaReportsAppExtended_2016\obj\Debug\net48\win-x64\TeklaReportsAppExtended_2016.AssemblyInfoInputs.cache
+E:\Tekla\09_Applications\TeklaReportsSolution\TeklaReportsAppExtended_2016\obj\Debug\net48\win-x64\TeklaReportsAppExtended_2016.AssemblyInfo.cs
+E:\Tekla\09_Applications\TeklaReportsSolution\TeklaReportsAppExtended_2016\obj\Debug\net48\win-x64\TeklaReportsAppExtended_2016.csproj.CoreCompileInputs.cache
+E:\Tekla\09_Applications\TeklaReportsSolution\TeklaReportsAppExtended_2016\obj\Debug\net48\win-x64\TeklaReportsAppExtended_2016.csproj.Fody.CopyLocal.cache
+E:\Tekla\09_Applications\TeklaReportsSolution\TeklaReportsAppExtended_2016\obj\Debug\net48\win-x64\TeklaReportsAppExtended_2016.exe

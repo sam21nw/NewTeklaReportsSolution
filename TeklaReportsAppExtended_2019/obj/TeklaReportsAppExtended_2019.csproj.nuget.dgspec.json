@@ -1,0 +1,79 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\Tekla\\09_Applications\\console apps\\NewTeklaReportsSolution\\TeklaReportsAppExtended_2019\\TeklaReportsAppExtended_2019.csproj": {}
+  },
+  "projects": {
+    "E:\\Tekla\\09_Applications\\console apps\\NewTeklaReportsSolution\\TeklaReportsAppExtended_2019\\TeklaReportsAppExtended_2019.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Tekla\\09_Applications\\console apps\\NewTeklaReportsSolution\\TeklaReportsAppExtended_2019\\TeklaReportsAppExtended_2019.csproj",
+        "projectName": "TeklaReportsAppExtended_2019",
+        "projectPath": "E:\\Tekla\\09_Applications\\console apps\\NewTeklaReportsSolution\\TeklaReportsAppExtended_2019\\TeklaReportsAppExtended_2019.csproj",
+        "packagesPath": "C:\\Users\\sam21\\.nuget\\packages\\",
+        "outputPath": "E:\\Tekla\\09_Applications\\console apps\\NewTeklaReportsSolution\\TeklaReportsAppExtended_2019\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\sam21\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net48": {
+            "targetAlias": "net48",
+            "projectReferences": {
+              "E:\\Tekla\\09_Applications\\console apps\\NewTeklaReportsSolution\\TeklaReportsLibrary\\TeklaReportsLibrary.csproj": {
+                "projectPath": "E:\\Tekla\\09_Applications\\console apps\\NewTeklaReportsSolution\\TeklaReportsLibrary\\TeklaReportsLibrary.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net48": {
+          "targetAlias": "net48",
+          "dependencies": {
+            "Costura.Fody": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.8.0-alpha0098, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win-x64": {
+          "#import": []
+        }
+      }
+    },
+    "E:\\Tekla\\09_Applications\\console apps\\NewTeklaReportsSolution\\TeklaReportsLibrary\\TeklaReportsLibrary.csproj": {
+      "restore": {
+        "projectUniqueName": "E:\\Tekla\\09_Applications\\console apps\\NewTeklaReportsSolution\\TeklaReportsLibrary\\TeklaReportsLibrary.csproj",
+        "projectName": "TeklaReportsLibrary",
+        "projectPath": "E:\\Tekla\\09_Applications\\console apps\\NewTeklaReportsSolution\\TeklaReportsLibrary\\TeklaReportsLibrary.csproj",
+        "frameworks": {
+          "net48": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {}
+      }
+    }
+  }
+}
