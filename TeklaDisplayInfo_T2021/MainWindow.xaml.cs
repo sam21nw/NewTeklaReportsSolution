@@ -1,9 +1,5 @@
 ﻿using System.Windows;
 
-using Tekla.Structures.Model;
-using Tekla.Structures.Model.Operations;
-
-
 namespace TeklaDisplayInfo
 {
   /// <summary>
@@ -14,18 +10,6 @@ namespace TeklaDisplayInfo
     public MainWindow()
     {
       InitializeComponent();
-
-      Model model = new Model();
-
-      if (model.GetConnectionStatus())
-      {
-        MessageBox.Show("Tekla Structures 2021 Model Connected");
-        Operation.DisplayPrompt("Tekla Structures 2021 Model Connected");
-      }
-      else
-      {
-        MessageBox.Show("Not Connected");
-      }
     }
   }
 }

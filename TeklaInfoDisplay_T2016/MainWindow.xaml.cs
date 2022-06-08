@@ -13,7 +13,7 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace InfoDisplay_2016
+namespace TeklaInfoDisplay
 {
   /// <summary>
   /// Interaction logic for MainWindow.xaml

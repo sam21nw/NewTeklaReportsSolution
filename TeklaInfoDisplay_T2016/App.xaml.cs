@@ -7,9 +7,7 @@ using System.Windows;
 
 using Tekla.Structures.Model;
 
-using TeklaInfoDisplay;
-
-namespace InfoDisplay_2016
+namespace TeklaInfoDisplay
 {
   /// <summary>
   /// Interaction logic for App.xaml
@@ -23,7 +21,7 @@ namespace InfoDisplay_2016
 
     private System.Windows.Forms.NotifyIcon _notifyIcon;
     private bool _isExit;
-    const string appName = "TeklaInfoDisplay_2016";
+    const string appName = "TeklaDisplayInfo_2016";
 
     protected override void OnStartup(StartupEventArgs e)
     {

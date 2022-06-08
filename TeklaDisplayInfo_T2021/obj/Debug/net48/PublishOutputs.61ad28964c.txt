@@ -1,3 +1,0 @@
-E:\Tekla\09_Applications\output\TeklaDisplayInfo_T2021.exe
-E:\Tekla\09_Applications\output\TeklaDisplayInfo_T2021.exe.config
-E:\Tekla\09_Applications\output\TeklaDisplayInfo_T2021.pdb

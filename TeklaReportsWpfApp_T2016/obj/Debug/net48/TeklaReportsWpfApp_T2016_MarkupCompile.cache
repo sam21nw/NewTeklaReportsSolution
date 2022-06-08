@@ -1,19 +1,19 @@
 ﻿TeklaReportsWpfApp_T2016
-
+0.6.1.0
 
 winexe
 C#
 .cs
-E:\Tekla\09_Applications\NewTeklaReportsSolution\TeklaReportsWpfApp_T2016\obj\Debug\net48\
+e:\Tekla\09_Applications\NewTeklaReportsSolution\TeklaReportsWpfApp_T2016\obj\Debug\net48\
 TeklaReportsApp
 none
 false
 TRACE;DEBUG;NETFRAMEWORK;NET48;
-E:\Tekla\09_Applications\NewTeklaReportsSolution\TeklaReportsWpfApp_T2016\App.xaml
+e:\Tekla\09_Applications\NewTeklaReportsSolution\TeklaReportsWpfApp_T2016\App.xaml
 3202053789
 
-15-584816536
-312041684850
+17830910682
+31-153786569
 Icons.xaml;MainWindow.xaml;Views\SplashScreenWindow.xaml;
 
 True
