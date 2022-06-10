@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net48</TargetFramework>
+    <UseWPF>true</UseWPF>
+    <ApplicationIcon>Icon.ico</ApplicationIcon>
+    <RootNamespace>TeklaReportsApp</RootNamespace>
+    <AssemblyName>TeklaReportsApp_T2019</AssemblyName>
+  </PropertyGroup>
+
+</Project>

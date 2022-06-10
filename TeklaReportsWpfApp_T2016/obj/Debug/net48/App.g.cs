@@ -47,13 +47,13 @@ public partial class App : System.Windows.Application {
     /// InitializeComponent
     /// </summary>
     [System.Diagnostics.DebuggerNonUserCodeAttribute()]
-    [System.CodeDom.Compiler.GeneratedCodeAttribute("PresentationBuildTasks", "6.0.5.0")]
+    [System.CodeDom.Compiler.GeneratedCodeAttribute("PresentationBuildTasks", "6.0.2.0")]
     public void InitializeComponent() {
         if (_contentLoaded) {
             return;
         }
         _contentLoaded = true;
-        System.Uri resourceLocater = new System.Uri("/TeklaReportsWpfApp_T2016;V0.6.1.0;component/app.xaml", System.UriKind.Relative);
+        System.Uri resourceLocater = new System.Uri("/TeklaReportsWpfApp_T2016;component/app.xaml", System.UriKind.Relative);
         
         #line 1 "..\..\..\App.xaml"
         System.Windows.Application.LoadComponent(this, resourceLocater);
@@ -67,7 +67,7 @@ public partial class App : System.Windows.Application {
     /// </summary>
     [System.STAThreadAttribute()]
     [System.Diagnostics.DebuggerNonUserCodeAttribute()]
-    [System.CodeDom.Compiler.GeneratedCodeAttribute("PresentationBuildTasks", "6.0.5.0")]
+    [System.CodeDom.Compiler.GeneratedCodeAttribute("PresentationBuildTasks", "6.0.2.0")]
     public static void Main() {
         App app = new App();
         app.InitializeComponent();

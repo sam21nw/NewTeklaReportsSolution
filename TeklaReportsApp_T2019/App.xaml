@@ -1,0 +1,13 @@
+﻿<Application x:Class="TeklaReportsApp.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:TeklaReportsApp"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+         <ResourceDictionary>
+   <ResourceDictionary.MergedDictionaries>
+    <ResourceDictionary x:Name="IconsDictionary" 
+             Source="pack://application:,,,/Icons.xaml" />
+   </ResourceDictionary.MergedDictionaries>
+    </Application.Resources>
+</Application>
