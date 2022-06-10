@@ -1,0 +1,6 @@
+D:\sam_working\Settings\Tekla\04_Applications\NewTeklaReportsSolution\output\TeklaReportsLibrary.dll
+D:\sam_working\Settings\Tekla\04_Applications\NewTeklaReportsSolution\output\TeklaReportsLibrary.pdb
+D:\sam_working\Settings\Tekla\04_Applications\NewTeklaReportsSolution\TeklaReportsLibrary\obj\Debug\TeklaReportsLibrary.csproj.AssemblyReference.cache
+D:\sam_working\Settings\Tekla\04_Applications\NewTeklaReportsSolution\TeklaReportsLibrary\obj\Debug\TeklaReportsLibrary.csproj.CoreCompileInputs.cache
+D:\sam_working\Settings\Tekla\04_Applications\NewTeklaReportsSolution\TeklaReportsLibrary\obj\Debug\TeklaReportsLibrary.dll
+D:\sam_working\Settings\Tekla\04_Applications\NewTeklaReportsSolution\TeklaReportsLibrary\obj\Debug\TeklaReportsLibrary.pdb

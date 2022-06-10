@@ -20,5 +20,54 @@
             <ColumnDefinition Width="*" />
         </Grid.ColumnDefinitions>
 
+    <Grid Grid.Row="0" Grid.ColumnSpan="2">
+    <Grid.RowDefinitions>
+        <RowDefinition Height="33"/>
+    </Grid.RowDefinitions>
+    <Grid.ColumnDefinitions>
+        <ColumnDefinition Width="Auto" />
+        <ColumnDefinition Width="Auto" />
+        <ColumnDefinition Width="Auto" />
+        <ColumnDefinition Width="*" />
+        <ColumnDefinition Width="Auto" />
+        <ColumnDefinition Width="Auto" />
+        <ColumnDefinition Width="Auto" />
+    </Grid.ColumnDefinitions>
+    <StackPanel Grid.Column="0" Margin="4,0" Orientation="Horizontal" VerticalAlignment="Center">
+        <Label Name="LabelMainParts" FontWeight="Normal" Margin="0,0,2,0" HorizontalAlignment="Left" VerticalContentAlignment="Center">Assembly/Parts:
+        </Label>
+        <TextBox Name="TextBoxMainParts" MinWidth="180" HorizontalAlignment="Left" VerticalAlignment="Center" VerticalContentAlignment="Center" Text="GRATING STIFF">
+        </TextBox>
+    </StackPanel>
+    <StackPanel Grid.Column="1" Margin="4,0" Orientation="Horizontal" VerticalAlignment="Center">
+        <Label Name="LabelReportType" FontWeight="Normal" Margin="0,0,2,0" HorizontalAlignment="Left" VerticalContentAlignment="Center">Type:
+        </Label>
+        <ComboBox Name="ComboBoxSearchReport" HorizontalAlignment="Left" VerticalAlignment="Center" Width="86">
+        <ComboBoxItem Content="Combined" IsSelected="True"></ComboBoxItem>
+        <ComboBoxItem Content="Unique"></ComboBoxItem>
+        </ComboBox>
+    </StackPanel>
+    <StackPanel Grid.Column="2" Orientation="Horizontal" VerticalAlignment="Center" Margin="10,0" >
+        <!-- <CheckBox Name="CheckBoxLockTeklaEvents" VerticalContentAlignment="Center" FlowDirection="RightToLeft" Content=":Lock report" Checked="CheckBoxLockTeklaEvents_Checked" Unchecked="CheckBoxLockTeklaEvents_Unchecked"></CheckBox> -->
+    </StackPanel>
+    <StackPanel Grid.Column="4" Margin="4,0" Orientation="Horizontal" VerticalAlignment="Center">
+        <Label Name="LabelWHAreaFactor" FontWeight="Normal" Margin="0,0,2,0" HorizontalAlignment="Left" VerticalContentAlignment="Center">W/H cut (m2):
+        </Label>
+        <TextBox Name="TextBoxWHAreaFactor" Width="40" Margin="0,2"  HorizontalAlignment="Left" VerticalAlignment="Center" VerticalContentAlignment="Center" Text="0.2" Tag="nil">
+        </TextBox>
+    </StackPanel>
+    <StackPanel Grid.Column="5" Margin="4,0" Orientation="Horizontal" VerticalAlignment="Center">
+        <Label Name="LabelWeightFactor" FontWeight="Normal" Margin="0,0,2,0" HorizontalAlignment="Left" VerticalContentAlignment="Center">Unit Wt (Kg/m2):
+        </Label>
+        <TextBox Name="TextBoxWeightFactor" Width="50" Margin="0,2" HorizontalAlignment="Left" VerticalAlignment="Center" VerticalContentAlignment="Center" Text="45.453" Tag="0.0">
+        </TextBox>
+    </StackPanel>
+    <StackPanel Grid.Column="6" Margin="4,0" Orientation="Horizontal" VerticalAlignment="Center">
+        <Label Name="LabelFilterReport" FontWeight="Normal" Margin="0,0,2,0" HorizontalAlignment="Right" VerticalContentAlignment="Center">Filter:
+        </Label>
+        <TextBox Name="TextBoxFilterReport" Width="116" HorizontalAlignment="Left" VerticalAlignment="Center" VerticalContentAlignment="Center" Tag="not implemented">
+        </TextBox>
+    </StackPanel>
+    </Grid>
     </Grid>
 </Window>

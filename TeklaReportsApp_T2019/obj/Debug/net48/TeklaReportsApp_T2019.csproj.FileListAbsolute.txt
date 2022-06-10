@@ -15,3 +15,5 @@ D:\sam_working\Settings\Tekla\04_Applications\NewTeklaReportsSolution\TeklaRepor
 D:\sam_working\Settings\Tekla\04_Applications\NewTeklaReportsSolution\TeklaReportsApp_T2019\obj\Debug\net48\TeklaReportsApp_T2019.csproj.CoreCompileInputs.cache
 D:\sam_working\Settings\Tekla\04_Applications\NewTeklaReportsSolution\TeklaReportsApp_T2019\obj\Debug\net48\TeklaReportsApp_T2019.exe
 D:\sam_working\Settings\Tekla\04_Applications\NewTeklaReportsSolution\TeklaReportsApp_T2019\obj\Debug\net48\TeklaReportsApp_T2019.pdb
+D:\sam_working\Settings\Tekla\04_Applications\NewTeklaReportsSolution\TeklaReportsApp_T2019\obj\Debug\net48\Icons.baml
+D:\sam_working\Settings\Tekla\04_Applications\NewTeklaReportsSolution\TeklaReportsApp_T2019\obj\Debug\net48\App.baml

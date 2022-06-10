@@ -3683,26 +3683,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\sam21\\.nuget\\packages\\": {}
+    "C:\\Users\\Design\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "0.5.0",
     "restore": {
-      "projectUniqueName": "E:\\Tekla\\09_Applications\\NewTeklaReportsSolution\\TeklaDisplayInfo_T2021\\TeklaDisplayInfo_T2021.csproj",
+      "projectUniqueName": "D:\\sam_working\\Settings\\Tekla\\04_Applications\\NewTeklaReportsSolution\\TeklaDisplayInfo_T2021\\TeklaDisplayInfo_T2021.csproj",
       "projectName": "TeklaDisplayInfo_T2021",
-      "projectPath": "E:\\Tekla\\09_Applications\\NewTeklaReportsSolution\\TeklaDisplayInfo_T2021\\TeklaDisplayInfo_T2021.csproj",
-      "packagesPath": "C:\\Users\\sam21\\.nuget\\packages\\",
-      "outputPath": "E:\\Tekla\\09_Applications\\NewTeklaReportsSolution\\TeklaDisplayInfo_T2021\\obj\\",
+      "projectPath": "D:\\sam_working\\Settings\\Tekla\\04_Applications\\NewTeklaReportsSolution\\TeklaDisplayInfo_T2021\\TeklaDisplayInfo_T2021.csproj",
+      "packagesPath": "C:\\Users\\Design\\.nuget\\packages\\",
+      "outputPath": "D:\\sam_working\\Settings\\Tekla\\04_Applications\\NewTeklaReportsSolution\\TeklaDisplayInfo_T2021\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\sam21\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\Design\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net48"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -3732,7 +3730,7 @@
             "version": "[7.0.0-preview.3.22175.4, )"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
       }
     }
   }

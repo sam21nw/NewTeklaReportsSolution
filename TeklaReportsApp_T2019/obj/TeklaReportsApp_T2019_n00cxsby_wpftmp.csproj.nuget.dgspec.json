@@ -1,0 +1,50 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\sam_working\\Settings\\Tekla\\04_Applications\\NewTeklaReportsSolution\\TeklaReportsApp_T2019\\TeklaReportsApp_T2019.csproj": {}
+  },
+  "projects": {
+    "D:\\sam_working\\Settings\\Tekla\\04_Applications\\NewTeklaReportsSolution\\TeklaReportsApp_T2019\\TeklaReportsApp_T2019.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\sam_working\\Settings\\Tekla\\04_Applications\\NewTeklaReportsSolution\\TeklaReportsApp_T2019\\TeklaReportsApp_T2019.csproj",
+        "projectName": "TeklaReportsApp_T2019",
+        "projectPath": "D:\\sam_working\\Settings\\Tekla\\04_Applications\\NewTeklaReportsSolution\\TeklaReportsApp_T2019\\TeklaReportsApp_T2019.csproj",
+        "packagesPath": "C:\\Users\\Design\\.nuget\\packages\\",
+        "outputPath": "D:\\sam_working\\Settings\\Tekla\\04_Applications\\NewTeklaReportsSolution\\TeklaReportsApp_T2019\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Design\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net48": {
+            "targetAlias": "net48",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net48": {
+          "targetAlias": "net48",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win7-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

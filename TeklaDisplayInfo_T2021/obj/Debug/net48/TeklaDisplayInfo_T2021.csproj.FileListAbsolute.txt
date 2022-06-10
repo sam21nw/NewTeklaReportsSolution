@@ -19,3 +19,15 @@ E:\Tekla\09_Applications\NewTeklaReportsSolution\TeklaDisplayInfo_T2021\obj\Debu
 E:\Tekla\09_Applications\NewTeklaReportsSolution\TeklaDisplayInfo_T2021\obj\Debug\net48\TeklaDisplayInfo_T2021.pdb
 E:\Tekla\09_Applications\NewTeklaReportsSolution\TeklaDisplayInfo_T2021\obj\Debug\net48\TeklaDisplayInfo.Properties.Resources.resources
 E:\Tekla\09_Applications\NewTeklaReportsSolution\TeklaDisplayInfo_T2021\obj\Debug\net48\TeklaDisplayInfo_T2021.csproj.GenerateResource.cache
+D:\sam_working\Settings\Tekla\04_Applications\NewTeklaReportsSolution\TeklaDisplayInfo_T2021\obj\Debug\net48\TeklaDisplayInfo_T2021.csproj.AssemblyReference.cache
+D:\sam_working\Settings\Tekla\04_Applications\NewTeklaReportsSolution\TeklaDisplayInfo_T2021\obj\Debug\net48\TeklaDisplayInfo_T2021.csproj.SuggestedBindingRedirects.cache
+D:\sam_working\Settings\Tekla\04_Applications\NewTeklaReportsSolution\TeklaDisplayInfo_T2021\obj\Debug\net48\TeklaDisplayInfo_T2021.exe.config
+D:\sam_working\Settings\Tekla\04_Applications\NewTeklaReportsSolution\TeklaDisplayInfo_T2021\obj\Debug\net48\MainWindow.g.cs
+D:\sam_working\Settings\Tekla\04_Applications\NewTeklaReportsSolution\TeklaDisplayInfo_T2021\obj\Debug\net48\App.g.cs
+D:\sam_working\Settings\Tekla\04_Applications\NewTeklaReportsSolution\TeklaDisplayInfo_T2021\obj\Debug\net48\TeklaDisplayInfo_T2021_MarkupCompile.cache
+D:\sam_working\Settings\Tekla\04_Applications\NewTeklaReportsSolution\TeklaDisplayInfo_T2021\obj\Debug\net48\TeklaDisplayInfo_T2021_MarkupCompile.lref
+D:\sam_working\Settings\Tekla\04_Applications\NewTeklaReportsSolution\TeklaDisplayInfo_T2021\obj\Debug\net48\MainWindow.baml
+D:\sam_working\Settings\Tekla\04_Applications\NewTeklaReportsSolution\TeklaDisplayInfo_T2021\obj\Debug\net48\TeklaDisplayInfo_T2021.g.resources
+D:\sam_working\Settings\Tekla\04_Applications\NewTeklaReportsSolution\TeklaDisplayInfo_T2021\obj\Debug\net48\TeklaDisplayInfo.Properties.Resources.resources
+D:\sam_working\Settings\Tekla\04_Applications\NewTeklaReportsSolution\TeklaDisplayInfo_T2021\obj\Debug\net48\TeklaDisplayInfo_T2021.csproj.GenerateResource.cache
+D:\sam_working\Settings\Tekla\04_Applications\NewTeklaReportsSolution\TeklaDisplayInfo_T2021\obj\Debug\net48\TeklaDisplayInfo_T2021.pdb

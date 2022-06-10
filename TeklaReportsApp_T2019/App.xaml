@@ -9,5 +9,6 @@
     <ResourceDictionary x:Name="IconsDictionary" 
              Source="pack://application:,,,/Icons.xaml" />
    </ResourceDictionary.MergedDictionaries>
+         </ResourceDictionary>
     </Application.Resources>
 </Application>

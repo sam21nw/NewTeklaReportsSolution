@@ -4107,34 +4107,32 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\sam21\\.nuget\\packages\\": {}
+    "C:\\Users\\Design\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Tekla\\09_Applications\\NewTeklaReportsSolution\\TeklaReportsConsoleApp_2019\\TeklaReportsConsoleApp_2019.csproj",
+      "projectUniqueName": "D:\\sam_working\\Settings\\Tekla\\04_Applications\\NewTeklaReportsSolution\\TeklaReportsConsoleApp_2019\\TeklaReportsConsoleApp_2019.csproj",
       "projectName": "TeklaReportsConsoleApp_2019",
-      "projectPath": "E:\\Tekla\\09_Applications\\NewTeklaReportsSolution\\TeklaReportsConsoleApp_2019\\TeklaReportsConsoleApp_2019.csproj",
-      "packagesPath": "C:\\Users\\sam21\\.nuget\\packages\\",
-      "outputPath": "E:\\Tekla\\09_Applications\\NewTeklaReportsSolution\\TeklaReportsConsoleApp_2019\\obj\\",
+      "projectPath": "D:\\sam_working\\Settings\\Tekla\\04_Applications\\NewTeklaReportsSolution\\TeklaReportsConsoleApp_2019\\TeklaReportsConsoleApp_2019.csproj",
+      "packagesPath": "C:\\Users\\Design\\.nuget\\packages\\",
+      "outputPath": "D:\\sam_working\\Settings\\Tekla\\04_Applications\\NewTeklaReportsSolution\\TeklaReportsConsoleApp_2019\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\sam21\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\Design\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net48"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net48": {
           "targetAlias": "net48",
           "projectReferences": {
-            "E:\\Tekla\\09_Applications\\NewTeklaReportsSolution\\TeklaReportsLibrary\\TeklaReportsLibrary.csproj": {
-              "projectPath": "E:\\Tekla\\09_Applications\\NewTeklaReportsSolution\\TeklaReportsLibrary\\TeklaReportsLibrary.csproj"
+            "D:\\sam_working\\Settings\\Tekla\\04_Applications\\NewTeklaReportsSolution\\TeklaReportsLibrary\\TeklaReportsLibrary.csproj": {
+              "projectPath": "D:\\sam_working\\Settings\\Tekla\\04_Applications\\NewTeklaReportsSolution\\TeklaReportsLibrary\\TeklaReportsLibrary.csproj"
             }
           }
         }
@@ -4156,7 +4154,7 @@
             "version": "[5.8.0-alpha0098, )"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
       }
     },
     "runtimes": {

@@ -19,6 +19,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TeklaDisplayInfo_T2021", "T
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeklaReportsApp_T2019", "TeklaReportsApp_T2019\TeklaReportsApp_T2019.csproj", "{4E74D555-7CFF-4B1B-A008-AAB3F1247AD3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeklaReportsWpfApp_T2019", "TeklaReportsWpfApp_T2019\TeklaReportsWpfApp_T2019.csproj", "{E20CF3AC-0C5C-497D-A5AF-9D2CC2B0DED6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +59,10 @@ Global
 		{4E74D555-7CFF-4B1B-A008-AAB3F1247AD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4E74D555-7CFF-4B1B-A008-AAB3F1247AD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4E74D555-7CFF-4B1B-A008-AAB3F1247AD3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E20CF3AC-0C5C-497D-A5AF-9D2CC2B0DED6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E20CF3AC-0C5C-497D-A5AF-9D2CC2B0DED6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E20CF3AC-0C5C-497D-A5AF-9D2CC2B0DED6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E20CF3AC-0C5C-497D-A5AF-9D2CC2B0DED6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
